@@ -1,1 +1,1 @@
-1. Complete Ruby on Rails Developer by Hyungmin
+1. First Test repo on the Complete Ruby on Rails Developer course by Hyungmin
